@@ -1,0 +1,14 @@
+[
+    {"nom": "Agatha", "enfants": ["Byron", "Barbara"]},
+    {"nom": "Aaron", "enfants": ["Byron", "Barbara"]},
+    {"nom": "Byron", "enfants": ["Charles"]},
+    {"nom": "Barbara", "enfants": ["Conor"]},
+    {"nom": "Bartolomee", "enfants": ["Conor"]},
+    {"nom": "Charles", "enfants": []},
+    {"nom": "Conor", "enfants": ["Dimitri", "Damien", "Dana"]},
+    {"nom": "Dimitri", "enfants": ["Eve"]},
+    {"nom": "Dora", "enfants": ["Eve", "Elias"]},
+    {"nom": "Don", "enfants": ["Elias"]},
+    {"nom": "Eve", "enfants": []},
+    {"nom": "Elias", "enfants": []}
+]
